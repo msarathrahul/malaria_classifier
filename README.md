@@ -16,6 +16,6 @@ To get started, follow these steps:
    ```
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us. We'd love to hear from you! You can contact us through the repository's issue tracker or by sending an email to `your-email@example.com`.
+If you have any questions, suggestions, or feedback, feel free to reach out to us. We'd love to hear from you! You can contact us through the repository's issue tracker.
 
 Let's work together to enhance cell image classification and contribute to the field of medical image analysis! Happy coding!
